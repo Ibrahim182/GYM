@@ -1,0 +1,28 @@
+body
+{
+    background-image:url("5cd8d696df4d3868dec32c03caa5519c.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.header-t
+{
+    font-size:80px;
+}
+span
+{
+    color:green;
+}
+.input-1
+{
+    width:10%;
+}
+input
+{
+    border-style:none;
+    background-color:darkred;
+    border-radius:15px;
+}
+.icon
+{
+    font-size:50px;
+}

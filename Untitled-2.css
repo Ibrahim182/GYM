@@ -1,0 +1,26 @@
+.cover
+{
+    background-image:url("cover.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.cover-t
+{
+    font-size:200px;
+}
+.icon
+{
+    font-size:50px;
+}
+.power
+{
+    font-size:75px;
+}
+.success
+{
+    font-size:60px;
+}
+.success-d
+{
+    font-size:50px;
+}
