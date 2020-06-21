@@ -8,13 +8,33 @@ body
 {
     font-size:80px;
 }
+.sign-icon
+{
+    font-size:50px;
+}
+.top-icon
+{
+    font-size:20px;
+}
+li a 
+{
+    color:white;
+}
+li a:hover 
+{
+  color:#bf1e1e;
+}
+.head
+{
+    text-shadow: 5px 5px gray;      
+}
 span
 {
     color:green;
 }
 .input-1
 {
-    width:10%;
+    width:15%;
 }
 input
 {
@@ -25,8 +45,4 @@ input
 .icon
 {
     font-size:50px;
-}
-.top-icon
-{
-    font-size:25px;
 }
