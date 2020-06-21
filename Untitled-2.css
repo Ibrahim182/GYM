@@ -6,15 +6,35 @@
 }
 .cover-t
 {
-    font-size:100px;
+    font-size:200px;
 }
-.icon
+.gym-icon
+{
+    font-size:30px;
+}
+.sign-icon
 {
     font-size:50px;
 }
+.top-icon
+{
+    font-size:20px;
+}
+li a 
+{
+    color:white;
+}
+li a:hover 
+{
+  color:#bf1e1e;
+}
+.head
+{
+    text-shadow: 5px 5px gray;      
+}
 .power
 {
-    font-size:70px;
+    font-size:75px;
 }
 .success
 {
@@ -24,7 +44,11 @@
 {
     font-size:50px;
 }
-.top-icon
+.halo
 {
-    font-size:25px;
+    color:white;
+}
+.helo a:hover
+{
+    color:#bf1e1e;
 }
